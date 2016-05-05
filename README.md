@@ -1,4 +1,6 @@
 [![Build Status](https://secure.travis-ci.org/uploadcare/uploadcare-rails.png?branch=master)](http://travis-ci.org/uploadcare/uploadcare-rails)
+[![Dependency Status](https://gemnasium.com/badges/github.com/renius/uploadcare-rails.svg)](https://gemnasium.com/github.com/renius/uploadcare-rails)
+
 
 An awesome Rails plugin for [Uploadcare](https://uploadcare.com) service.
 Based on [uploadcare-ruby](https://github.com/uploadcare/uploadcare-ruby) gem (general purpose wrapper for Uploadcare API)
